@@ -7,7 +7,7 @@ When a user opens the this work day scheduler on their google chrome browser, th
 
 
 ## Live URL
-
+https://caballero-r.github.io/Scheduling-Your-Work-Day/
 
 <img src="assets/work-day-preview.html.png" width=500 height=800 alt="Preview of the Work Day Scheduler">
 
